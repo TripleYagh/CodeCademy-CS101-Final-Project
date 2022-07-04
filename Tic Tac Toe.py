@@ -86,8 +86,6 @@ def is_it_over(char):
 
 
 # This used to be how I wrote it before, however: Attribute Error: __enter__
-# I am keeping it in because I still don't understand the error, and hope
-# That someone may be able to explain it to me. I'll look it up too.
 # def is_it_over(symbol):
 #     with board_lst as b:
 #         with symbol as s:
